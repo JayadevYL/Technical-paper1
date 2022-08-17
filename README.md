@@ -33,6 +33,16 @@ at the application layer.Highly Recommended for Medium Risk Enviroment [Universi
 - Firewalls cannot fix poor administrative practices or poorly designed security policies.
 - It cannot stop attacks if the traffic does not pass through them.
 - They are only as effective as the rules they are configured to enforce.
+## Different between HardWare FireWall and SoftWare FireWall
+### HardWare FireWAll
+- Hardware FireWall is seperate device which FireWall is running on it.
+- It is called Application FireWall.
+- It will protect all the computer which present in the internet.
+### SoftWare FireWall
+- SoftWare FireWall is install in your pc.
+- It is called Host FireWall.
+- It can proctect only one computer which is install.
+
 
 
  
