@@ -21,12 +21,19 @@
 3. Hybird FireWall
 ### 1.Packet Filtering FireWall
 *A packet filtering firewall is a network security feature that controls the flow of incoming and outgoing network data.
-High Recommended for low risk enviroment.*
+Highly Recommended for low risk enviroment[Florist shop].*
 ### 2.Proxy FireWall
 *A proxy firewall is a network security system that protects network resources by filtering messages 
-at the application layer.High Recommended for Medium Risk Enviroment[University].*
+at the application layer.Highly Recommended for Medium Risk Enviroment [University].*
 ### 3.Hybrid FireWall
-*Hybrid firewalls consist of multiple firewalls, each providing a specified set of functions.*
+*Hybrid firewalls consist of multiple firewalls, each providing a specified set of functions.Highly Recommended for High Risk Environment [Hospital].*
+## FireWAll Limitations
+- Firewalls cannot protect against what has been authorized
+- It cannot stop social engineering attacks or an unauthorized user intentionally using their access for unwanted purposes.
+- Firewalls cannot fix poor administrative practices or poorly designed security policies.
+- It cannot stop attacks if the traffic does not pass through them.
+- They are only as effective as the rules they are configured to enforce.
+
 
  
           
