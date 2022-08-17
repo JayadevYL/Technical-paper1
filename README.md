@@ -16,9 +16,9 @@
     hacker.It will proctect your Data.
 ## Diffrent Types Of FireWall
 ### There are 3 types
-1.Packet Filtering FireWall
-2.Proxy FireWall
-3.Hybird FireWall
+1.Packet Filtering FireWall.
+2.Proxy FireWall.
+3.Hybird FireWall.
 
  
           
