@@ -22,7 +22,7 @@
 ### 1.Packet Filtering FireWall
 *A packet filtering firewall is a network security feature that controls the flow of incoming and outgoing network data.*
 ### 2.Proxy FireWall
-**A proxy firewall is a network security system that protects network resources by filtering _messages 
-at the application layer.**
+*A proxy firewall is a network security system that protects network resources by filtering messages 
+at the application layer.*
  
           
