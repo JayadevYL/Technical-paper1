@@ -19,7 +19,7 @@
 1. Packet Filtering FireWall
 2. Proxy FireWall
 3. Hybird FireWall
-### Packet Filtering FireWall
+### 1.Packet Filtering FireWall
 *A packet filtering firewall is a network security feature that controls the flow of incoming and outgoing network data.*
  
           
