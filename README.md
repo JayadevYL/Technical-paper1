@@ -20,9 +20,13 @@
 2. Proxy FireWall
 3. Hybird FireWall
 ### 1.Packet Filtering FireWall
-*A packet filtering firewall is a network security feature that controls the flow of incoming and outgoing network data.*
+*A packet filtering firewall is a network security feature that controls the flow of incoming and outgoing network data.
+Rcommended for low risk enviroment.*
 ### 2.Proxy FireWall
 *A proxy firewall is a network security system that protects network resources by filtering messages 
 at the application layer.*
+### 3.Hybrid FireWall
+*Hybrid firewalls consist of multiple firewalls, each providing a specified set of functions.*
+
  
           
